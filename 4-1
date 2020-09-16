@@ -1,0 +1,3 @@
+pizzas = ['芝士榴莲','至尊海鲜','黑椒牛扒']
+for pizza in pizzas:
+    print(pizza)
